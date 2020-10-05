@@ -23,7 +23,6 @@ Each file contains 6 columns:
 	- grouped_domain: we group (and rename) different domains associated to the same service IP on which the domains are hosted during the time period of our experiments (see section 4.2.1 of the paper for further details).
 	- domain_id: unique id for the grouped domain
 	- port: destination port
-* `detection_rules/` - Data for Section 4.3.2 Generation of Detection Rules -
 * `README.md` - This file contains an overview of the data.
 * `imc20_logo.png` - A circular bar plot of average # of packets/hour per domain.
 
